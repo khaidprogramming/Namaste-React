@@ -1,6 +1,6 @@
-Namaste React Course by Akshay Saini
+# Namaste React Course by Akshay Saini
 
-Chapter 01 - Inception
+## Chapter 01 - Inception
 
 Coding -
 Set up all the tools in your laptop
